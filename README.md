@@ -5,5 +5,5 @@
 
 ## Database Admin
 
-- Username: Admin
-- Password: Admin
+- Username: nurul
+- Password: 123
